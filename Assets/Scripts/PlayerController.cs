@@ -56,7 +56,7 @@ public class PlayerController : MonoBehaviour
         
         // Disables zoom by default
         IsZoomEnabled = false;
-        
+
         // Hides & locks cursor
         Cursor.visible = false;
         Cursor.lockState = CursorLockMode.Locked;
