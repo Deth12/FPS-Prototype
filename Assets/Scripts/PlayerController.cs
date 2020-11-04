@@ -104,4 +104,10 @@ public class PlayerController : MonoBehaviour
         mainCamera.fieldOfView = Mathf.Lerp(mainCamera.fieldOfView, targetFOV, Time.deltaTime * zoomSmoothing);
         gunCamera.fieldOfView = Mathf.Lerp(gunCamera.fieldOfView, targetFOV, Time.deltaTime * zoomSmoothing);
     }
+
+    public void SetMovementSpeed(float value)
+    {
+        Debug.Log($"[{this.gameObject.name}] Setting movement speed: {movementSpeed} => {value}");
+        movementSpeed = value;
+    }
 }
