@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fd560bb-d9f2-4ace-9694-9ceced4e116c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS Prototype/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS Prototype/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS Prototype/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS Prototype/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FPS Prototype/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FPS Prototype/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Wall.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Wall.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Editor/DataLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Editor/DataLoader.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +47,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/WebRequestTask.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Editor/StrangeTask.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/MaterialsPainter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/DataDownloader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Editor/DataLoader.cs" />
       </list>
     </option>
@@ -104,7 +100,8 @@
       <workItem from="1604497197905" duration="100000" />
       <workItem from="1604497385060" duration="98000" />
       <workItem from="1604497676515" duration="105000" />
-      <workItem from="1604497822968" duration="4481000" />
+      <workItem from="1604497822968" duration="7370000" />
+      <workItem from="1605518343221" duration="4651000" />
     </task>
     <servers />
   </component>
@@ -123,6 +120,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
@@ -132,5 +130,9 @@
       <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state x="320" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.810@0.23.1440.810" timestamp="1604497129200" />
+    <state x="120" y="141" width="1200" height="558" key="VCS.FileHistoryDialog" timestamp="1604509326770">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state x="120" y="141" width="1200" height="558" key="VCS.FileHistoryDialog/0.23.1440.810@0.23.1440.810" timestamp="1604509326770" />
   </component>
 </project>
